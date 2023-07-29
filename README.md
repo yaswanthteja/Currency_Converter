@@ -9,16 +9,21 @@
 
 # Currency Converter
 
+
+Currency Xchange is a user-friendly and efficient currency converter application that allows users to effortlessly convert between different currencies. With real-time exchange rate data sourced from reputable APIs, Currency Xchange provides accurate and up-to-date conversion rates for  currencies worldwide.  Experience hassle-free currency conversions on the go with Currency Xchange.
+
+
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg">
   <img src="https://forthebadge.com/images/badges/made-with-python.svg">
 </p>
 
 
+
 The app is built for performing currency conversion using data fetched from an 
 
 - open-source API: https://www.frankfurter.app/.
-- Git hub :- https://github.com/hakanensari/frankfurter
+- Git hub:- https://github.com/hakanensari/frankfurter
 - Api Documentation: https://www.frankfurter.app/docs/#usage
 
 ## ⚙️ Usage
@@ -74,10 +79,10 @@ Here we need to mention the currency codes
 ## 🏗️ Project Structure
 ```
 ├── api.py             <- script contains the code for calling API endpoints 
-├── currency.py        <- contains the code for checking if currency code is valid,  store results and format final output
+├── currency.py        <- contains the code for checking if currency code is valid,  store results and formatting final output
 ├── main.py            <- main program used for entering the input parameters  (currency codes) and display the results
 ├── test_api.py        <- python script for testing code from api.py
-└── test_currency.py   <- python script for testing code from currency.py
+└── test_currency.py   <- Python script for testing code from currency.py
 ```
 
 
