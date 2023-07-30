@@ -26,6 +26,14 @@ The app is built for performing currency conversion using data fetched from an
 - Git hub:- https://github.com/hakanensari/frankfurter
 - Api Documentation: https://www.frankfurter.app/docs/#usage
 
+
+## 🛠️ Installation Steps
+
+```
+pip install requests
+```
+
+
 ## ⚙️ Usage
 
 In the project directory, you can run: 
