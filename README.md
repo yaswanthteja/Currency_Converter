@@ -7,10 +7,10 @@
 
 
 
-# Currency Converter
+# Currency Xchange
 
 
-Currency Xchange is a user-friendly and efficient currency converter application that allows users to effortlessly convert between different currencies. With real-time exchange rate data sourced from reputable APIs, Currency Xchange provides accurate and up-to-date conversion rates for  currencies worldwide.  Experience hassle-free currency conversions on the go with Currency Xchange.
+Currency Xchange is a user-friendly and efficient currency converter application that allows users to convert between different currencies effortlessly. With real-time exchange rate data sourced from reputable APIs, Currency Xchange provides accurate and up-to-date conversion rates for  currencies worldwide—experience hassle-free currency conversions on the go with Currency Xchange.
 
 
 <p align="center">
