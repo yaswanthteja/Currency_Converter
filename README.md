@@ -22,7 +22,7 @@ Currency Xchange is a user-friendly and efficient currency converter application
 
 The app is built for performing currency conversion using data fetched from an 
 
-- open-source API: https://www.frankfurter.app/.
+- open-source API: https://www.frankfurter.app/
 - Git hub:- https://github.com/hakanensari/frankfurter
 - Api Documentation: https://www.frankfurter.app/docs/#usage
 
