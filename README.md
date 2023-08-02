@@ -29,6 +29,9 @@ The app is built for performing currency conversion using data fetched from an
 
 ## 🛠️ Installation Steps
 
+
+- Install python
+
 ```
 pip install requests
 ```
