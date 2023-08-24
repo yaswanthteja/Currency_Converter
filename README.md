@@ -90,8 +90,8 @@ Here we need to mention the currency codes
 ## 🏗️ Project Structure
 ```
 ├── api.py             <- script contains the code for calling API endpoints 
-├── currency.py        <- contains the code for checking if currency code is valid,  store results and formatting final output
-├── main.py            <- main program used for entering the input parameters  (currency codes) and display the results
+├── currency.py        <- contains the code for checking if the currency code is valid,  storing results, and formatting the final output
+├── main.py            <- main program used for entering the input parameters  (currency codes) and displaying the results
 ├── test_api.py        <- python script for testing code from api.py
 └── test_currency.py   <- Python script for testing code from currency.py
 ```
